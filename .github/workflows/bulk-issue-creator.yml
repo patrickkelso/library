@@ -1,10 +1,5 @@
 on: 
   workflow_dispatch:
-    inputs:
-      write:
-        description: "Change to 'true' to create issues, leave as 'false' to preview output"
-        default: "false"
-        type: boolean
 
 name: Bulk issue creator
 
@@ -18,4 +13,4 @@ jobs:
       - name: Create bulk issues
         uses: benbalter/bulk-issue-creator@main
         with: 
-          write: true
+          write: 'true'
