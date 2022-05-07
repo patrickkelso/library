@@ -18,4 +18,4 @@ jobs:
       - name: Create bulk issues
         uses: benbalter/bulk-issue-creator@main
         with: 
-          write: ${{ github.event.inputs.write }}
+          write: true
