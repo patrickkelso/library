@@ -1,33 +1,24 @@
 [
   {
-    "title": "Why Nations Fail",
+    "title": "The Sunday school chronicle [afterw.] New chronicle of Christian education",
     "authors": [
-      "Daron Acemoğlu",
-      "James A. Robinson"
+      "National Sunday school union"
     ],
-    "publisher": "Currency",
-    "publishedDate": "2012",
-    "description": "An award-winning professor of economics at MIT and a Harvard University political scientist and economist evaluate the reasons that some nations are poor while others succeed, outlining provocative perspectives that support theories about the importance of institutions.",
-    "image": "http://books.google.com/books/content?id=ErKvvTKBrbYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "1878",
+    "image": "http://books.google.com/books/content?id=4KUOAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 18,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 529,
-    "isbn10": "0307719219",
-    "isbn13": "9780307719218",
+    "averageRating": 2,
+    "ratingsCount": 1,
     "googleBooks": {
-      "id": "ErKvvTKBrbYC",
-      "preview": "http://books.google.com/books?id=ErKvvTKBrbYC&printsec=frontcover&dq=intitle:+New+Rome+by+Paul+Stephenson&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=ErKvvTKBrbYC&dq=intitle:+New+Rome+by+Paul+Stephenson&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Why_Nations_Fail.html?hl=&id=ErKvvTKBrbYC"
+      "id": "4KUOAAAAQAAJ",
+      "preview": "http://books.google.com/books?id=4KUOAAAAQAAJ&pg=PA47&dq=intitle:New+Rome:+The+Empire+in+the+East+by+Paul+Stephenson&hl=&cd=5&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=4KUOAAAAQAAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=4KUOAAAAQAAJ"
     },
-    "issueNumber": 3,
+    "issueNumber": 4,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2022-05-07T19:59:16.000Z"
+    "startedAt": "2022-05-07T20:01:42.000Z"
   },
   {
     "title": "Iron Widow",
