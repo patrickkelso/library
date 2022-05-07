@@ -9,13 +9,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
-
-[![Book cover of Iron Widow](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7FknEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/patrickkelso/library/issues/2 "Iron Widow by Xiran Jay Zhao")
-
-### ✅ Completed (1)
+### ✅ Completed (2)
 
 [![Book cover of The First 20 Hours](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DILJPEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/patrickkelso/library/issues/9 "The First 20 Hours by Josh Kaufman completed in 33 seconds on May 2022")
+[![Book cover of Iron Widow](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D7FknEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/patrickkelso/library/issues/2 "Iron Widow by Xiran Jay Zhao completed in 2 hours on May 2022")
 
 <!--end:bookshelf-action-->
 
