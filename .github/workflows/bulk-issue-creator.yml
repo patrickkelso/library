@@ -12,8 +12,6 @@ jobs:
   bulk_issue_creator:
     runs-on: ubuntu-latest
     name: Bulk Issue Creator
-    permissions:
-      issues: write
     steps:
       - name: Checkout template and data
         uses: actions/checkout@v2
