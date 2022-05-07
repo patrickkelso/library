@@ -1,24 +1,32 @@
 [
   {
-    "title": "The Sunday school chronicle [afterw.] New chronicle of Christian education",
+    "title": "The First 20 Hours",
     "authors": [
-      "National Sunday school union"
+      "Josh Kaufman"
     ],
-    "publishedDate": "1878",
-    "image": "http://books.google.com/books/content?id=4KUOAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publisher": "Penguin",
+    "publishedDate": "2014-05-27",
+    "description": "What if it’s possible to learn the basics of any new skill in 20 hours or less? Research suggests it takes 10,000 hours to master a new skill, and the earliest hours are always the most frustrating. That’s why it’s so difficult to learn a new language, play an instrument, hit a golf ball, or shoot great photos. Josh Kaufman offers a better way. His systematic approach to rapid skill acquisition shows you how to deconstruct complex skills, maximize productive practice, and remove common learning barriers. By completing just 20 hours of focused, deliberate practice you can pick up the basics in record time… and have more fun along the way.",
+    "image": "http://books.google.com/books/content?id=ILJPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
     "language": "en",
-    "averageRating": 2,
-    "ratingsCount": 1,
+    "averageRating": 2.5,
+    "ratingsCount": 2,
+    "categories": [
+      "Self-Help"
+    ],
+    "pageCount": 288,
+    "isbn10": "1591846943",
+    "isbn13": "9781591846949",
     "googleBooks": {
-      "id": "4KUOAAAAQAAJ",
-      "preview": "http://books.google.com/books?id=4KUOAAAAQAAJ&pg=PA47&dq=intitle:New+Rome:+The+Empire+in+the+East+by+Paul+Stephenson&hl=&cd=5&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=4KUOAAAAQAAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=4KUOAAAAQAAJ"
+      "id": "ILJPEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=ILJPEAAAQBAJ&dq=intitle:The+First+20+Hours+by+Josh+Kaufman&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=ILJPEAAAQBAJ&dq=intitle:The+First+20+Hours+by+Josh+Kaufman&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_First_20_Hours.html?hl=&id=ILJPEAAAQBAJ"
     },
-    "issueNumber": 4,
+    "issueNumber": 9,
     "progressPercent": 0,
     "state": "reading",
-    "startedAt": "2022-05-07T20:01:42.000Z"
+    "startedAt": "2022-05-07T22:15:00.000Z"
   },
   {
     "title": "Iron Widow",
