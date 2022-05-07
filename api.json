@@ -1,5 +1,31 @@
 [
   {
+    "title": "New Rome",
+    "authors": [
+      "Paul Stephenson"
+    ],
+    "publisher": "Profile Books",
+    "publishedDate": "2022-01-06",
+    "description": "'Conventional histories of the last days of the Roman Empire will no longer suffice after you read this book.' Averil Cameron, author of Byzantine Matters Long before Rome fell to the Ostrogoths in AD 476, a new city had risen to take its place as the beating heart of a late antique empire, the glittering Constantinople: New Rome. In this magisterial work, Professor Paul Stephenson charts the centuries surrounding this epic shift of power. He traces the cultural, social and political forces that led to the empire being ruled from a city straddling Europe and Asia, placing all into a rich natural and environmental context informed by the latest scientific research. Blending narrative with analysis, he shows how the city and empire of New Rome survived countless attacks and the rise of Islam. By the end, the wide world of linked cities had changed into a world founded on new ideas about government and God, art and war, and the very future of a Christian empire: Byzantium.",
+    "image": "http://books.google.com/books/content?id=b2XODwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "History"
+    ],
+    "isbn10": "184765844X",
+    "isbn13": "9781847658449",
+    "googleBooks": {
+      "id": "b2XODwAAQBAJ",
+      "preview": "http://books.google.com/books?id=b2XODwAAQBAJ&dq=intitle:New+Rome+The+Roman+Empire+in+the+East,+AD+395+-+700+by+Paul+Stephenson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=b2XODwAAQBAJ&dq=intitle:New+Rome+The+Roman+Empire+in+the+East,+AD+395+-+700+by+Paul+Stephenson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/New_Rome.html?hl=&id=b2XODwAAQBAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-05-07T22:17:11.000Z"
+  },
+  {
     "title": "The First 20 Hours",
     "authors": [
       "Josh Kaufman"
